@@ -17,7 +17,7 @@
 
 </div>
 
-## 👋 About Me
+##  About Me
 
 I'm **Princewill Mmadu**, a Backend Software Engineer based in Nigeria. I build server-side applications with **Python and Django**, design relational databases, and ship REST APIs that web and mobile clients can rely on. Alongside engineering I work on **AI data annotation and LLM evaluation**: assessing model responses for accuracy, instruction-following and overall quality.
 
