@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:3d59a1,100:7c3aed&height=210&section=header&text=Princewill%20Mmadu&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend%20Software%20Engineer%20%E2%80%A2%20Python%20%26%20Django%20%E2%80%A2%20AI%2FLLM%20Evaluation&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Princewill Mmadu – Backend Software Engineer | Python & Django | AI/LLM Evaluation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:3d59a1,100:7c3aed&height=210&section=header&text=Princewill%20Mmadu&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend%20Software%20Engineer%20%E2%80%A2%20Python%20and%20Django%20%E2%80%A2%20AI%2FLLM%20Evaluation&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Princewill Mmadu – Backend Software Engineer | Python & Django | AI/LLM Evaluation" />
 
 <a href="https://github.com/Blueskale"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Backend+Software+Engineer;Python+%26+Django+Developer;REST+APIs+%2B+SQL+Databases;AI+%2F+LLM+Response+Evaluation" alt="Backend Software Engineer · Python & Django Developer · REST APIs + SQL Databases · AI / LLM Response Evaluation" /></a>
 
@@ -204,8 +204,8 @@ I'm **Princewill Mmadu**, a Backend Software Engineer based in Nigeria. I build 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Blueskale/Blueskale/output/stats.svg" alt="GitHub statistics" height="222" />
-  <img src="https://raw.githubusercontent.com/Blueskale/Blueskale/output/langs.svg" alt="Most used languages" height="222" />
+  <img src="https://raw.githubusercontent.com/Blueskale/Blueskale/output/stats.svg" alt="GitHub statistics" height="200" />
+  <img src="https://raw.githubusercontent.com/Blueskale/Blueskale/output/langs.svg" alt="Most used languages" height="200" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Blueskale&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
   <br/>
