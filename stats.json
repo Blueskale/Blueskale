@@ -1,0 +1,76 @@
+{
+  "login": "Blueskale",
+  "name": "Princewill Mmadu",
+  "generated_at": "2026-11-14 08:59 UTC",
+  "stars": 0,
+  "public_repos": 32,
+  "followers": 24,
+  "prs": 0,
+  "issues": 0,
+  "contributed_to": 0,
+  "commits_last_year": 25,
+  "contributions_last_year": 30,
+  "commits_total": 491,
+  "languages": {
+    "Python": {
+      "bytes": 16628937,
+      "repos": 18,
+      "color": "#3572A5",
+      "size": 17300.892057925797
+    },
+    "HTML": {
+      "bytes": 12964741,
+      "repos": 11,
+      "color": "#e34c26",
+      "size": 11942.032950884031
+    },
+    "JavaScript": {
+      "bytes": 250649,
+      "repos": 11,
+      "color": "#f1e05a",
+      "size": 1660.463489511287
+    },
+    "C": {
+      "bytes": 345223,
+      "repos": 7,
+      "color": "#555555",
+      "size": 1554.5291891759382
+    },
+    "CSS": {
+      "bytes": 201584,
+      "repos": 9,
+      "color": "#663399",
+      "size": 1346.943205929634
+    },
+    "TypeScript": {
+      "bytes": 213067,
+      "repos": 3,
+      "color": "#3178c6",
+      "size": 799.5004690430144
+    },
+    "Shell": {
+      "bytes": 39241,
+      "repos": 10,
+      "color": "#89e051",
+      "size": 626.4263723694909
+    },
+    "Go Template": {
+      "bytes": 356,
+      "repos": 1,
+      "color": "#00ADD8",
+      "size": 18.867962264113206
+    },
+    "Dockerfile": {
+      "bytes": 258,
+      "repos": 1,
+      "color": "#384d54",
+      "size": 16.06237840420901
+    },
+    "Assembly": {
+      "bytes": 202,
+      "repos": 1,
+      "color": "#6E4C13",
+      "size": 14.212670403551895
+    }
+  }
+}
